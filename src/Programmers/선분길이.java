@@ -1,3 +1,5 @@
+package Programmers;
+
 public class 선분길이 {
     public static void main(String[] args) {
         int[][] lines = {{0, 5}, {3, 9}, {1, 10}};
