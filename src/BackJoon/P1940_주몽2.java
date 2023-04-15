@@ -36,6 +36,8 @@ public class P1940_주몽2 {
                 j--;
             }
         }
+
+        System.out.println("count = " + count);
         System.out.println(count);
     }
 }
